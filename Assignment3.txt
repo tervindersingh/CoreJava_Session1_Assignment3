@@ -1,0 +1,2 @@
+Q: What two type of values can not be saved in int data type?
+Ans: We can't store character and numbers with decimal points.
